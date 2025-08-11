@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "duration_seconds": 5,
+  "duration_seconds": 10,
   "title": "Welcome to CloudBox!",
   "bodytext": "Don't forget to follow my YouTube channel. Use the icon in the top right to visit the channel!",
   "link": {
