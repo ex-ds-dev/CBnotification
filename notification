@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "duration_seconds": 5,
-  "title": "Esta es una notificación y la wea!",
-  "bodytext": "Don't forget to follow the YouTube channel. Use the icon in the top right to visit the channel!",
+  "title": "Welcome to CloudBox!",
+  "bodytext": "Don't forget to follow my YouTube channel. Use the icon in the top right to visit the channel!",
   "link": {
     "url": "https://www.youtube.com/@exodus_cl",
     "text": "Go to YouTube"
