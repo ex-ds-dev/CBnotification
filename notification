@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "duration_seconds": 5,
+  "title": "Welcome to CloudBox!",
+  "bodytext": "Don't forget to follow the YouTube channel. Use the icon in the top right to visit the channel!",
+  "link": {
+    "url": "https://www.youtube.com/@exodus_cl",
+    "text": "Go to YouTube"
+  }
+}
