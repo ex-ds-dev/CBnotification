@@ -2,7 +2,7 @@
   "enabled": true,
   "duration_seconds": 10,
   "title": "Welcome to CloudBox!",
-  "bodytext": "Don't forget to follow my YouTube channel. Use the icon in the top right to visit the channel!",
+  "bodytext": "This is a test, dynamic notification system by eXoDuS",
   "link": {
     "url": "https://www.youtube.com/@exodus_cl",
     "text": "Go to YouTube"
