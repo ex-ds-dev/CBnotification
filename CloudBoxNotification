@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "duration_seconds": 10,
-  "title": "WENA LOS CHUCHETUMARES!!!",
+  "title": "Welcome to CloudBox!",
   "bodytext": "Please enjoy the new Netplay feature, don't forget to follow my Youtube Channel",
   "link": {
     "url": "https://www.youtube.com/@exodus_cl",
-    "text": "CHÚPENLO RICO"
+    "text": "Go to Youtube"
   }
 }
