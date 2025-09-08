@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "duration_seconds": 10,
-  "title": "Hola, Shock!",
-  "bodytext": "Esta es una versión de prueba, como siempre debes tratar de romperla!!!",
+  "title": "Versión Release Candidate!",
+  "bodytext": "Últimas etapas de revisión",
   "link": {
     "url": "https://www.youtube.com/@exodus_cl",
     "text": "A Romper!"
