@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "duration_seconds": 10,
   "title": "Welcome to CloudBox!",
   "bodytext": "Please enjoy the new Netplay feature, don't forget to follow my Youtube Channel",
