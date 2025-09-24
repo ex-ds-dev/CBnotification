@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "duration_seconds": 10,
+  "duration_seconds": 14,
   "title": "Bienvenido a CloudBox Arcade!",
   "bodytext": "No olvides cambiar tu nombre de usuario desde el menu de opciones. Durante el juego puedes presionar ENTER para el chat de texto, presiona enter nuevamente para enviar el mensaje",
   "link": {
