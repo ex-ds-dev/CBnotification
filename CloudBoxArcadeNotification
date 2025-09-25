@@ -2,7 +2,7 @@
   "enabled": true,
   "duration_seconds": 30,
   "title": "ATENCIÓN - IMPORTANTE!",
-  "bodytext": "CAMBIA TU NOMBRE DE USUARIO EN OPCIONES \n\nLa primera vez que uses Netplay Windows pedirá autorización para RetroArch, DEBES ACEPTAR.\n\nSi al iniciar un juego como anfitrión te sale algún error, debes seleccionar un servidor Relay en opciones",
+  "bodytext": "La primera vez que uses Netplay Windows pedirá autorización para RetroArch, DEBES ACEPTAR.\n\nSi al iniciar un juego + Netplay te sale algún error (room not connectable.../Consider using a Relay server), selecciona un servidor Relay en opciones",
   "link": {
     "url": "https://www.patreon.com/cw/Exodus_cl",
     "text": "Si tienes dudas, contáctame aquí"
