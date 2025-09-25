@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "duration_seconds": 30,
-  "title": "ATENCIÓN - IMPORTANTE!",
+  "duration_seconds": 25,
+  "title": "ATENCIÓN - IMPORTANTE",
   "bodytext": "La primera vez que uses Netplay, windows pedirá autorización para Retroarch, DEBES ACEPTAR.\n\nSi al iniciar un juego + Netplay recibes un error (room not connectable / consider using a Relay server), selecciona un servidor Relay en opciones",
   "link": {
     "url": "https://www.patreon.com/cw/Exodus_cl",
