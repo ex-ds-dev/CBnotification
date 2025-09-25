@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "duration_seconds": 14,
+  "duration_seconds": 20,
   "title": "IMPORTANTE!",
   "bodytext": "La primera vez que uses Netplay Windows pedirá autorización para RetroArch, DEBES AUTORIZAR LA CONEXIÓN. Si al iniciar un juego como anfitrión te sale "Failed to..." Debes seleccionar un servidor Relay en opciones",
   "link": {
