@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "duration_seconds": 14,
-  "title": "Bienvenido a CloudBox Arcade!",
-  "bodytext": "No olvides cambiar tu nombre de usuario desde el menu de opciones. Durante el juego puedes presionar ENTER para el chat de texto, presiona enter nuevamente para enviar el mensaje",
+  "title": "IMPORTANTE!",
+  "bodytext": "La primera vez que uses Netplay Windows pedirá autorización para RetroArch, DEBES AUTORIZAR LA CONEXIÓN. Si al iniciar un juego como anfitrión te sale "Failed to..." Debes seleccionar un servidor Relay en opciones",
   "link": {
     "url": "#",
     "text": "¡A jugar!"
