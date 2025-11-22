@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "duration_seconds": 30,
-  "title": "ATENCIÓN - IMPORTANTE",
-  "bodytext": "La primera vez que uses Netplay, windows pedirá autorización para Retroarch, DEBES ACEPTAR.\n\nSi al iniciar un juego + Netplay recibes un error, selecciona un servidor Relay en opciones o nadie se podrá conectar a tu partida",
+  "duration_seconds": 5,
+  "title": "IMPORTANT - IMPORTANTE",
+  "bodytext": "There are new apps available! - Hay nuevas aplicaciones disponibles!",
   "link": {
     "url": "https://www.patreon.com/posts/cloudbox-arcade-139880506",
-    "text": "Nueva versión v1.2, descarga acá"
+    "text": "GO TO PATREON"
   }
 }
